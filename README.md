@@ -6,3 +6,4 @@ A chrome extensions that will get the exchange rate when you highlight the price
 
 ### references:
 https://api.ratesapi.io/api/latest
+https://github.com/savdb/Get-selected-text
